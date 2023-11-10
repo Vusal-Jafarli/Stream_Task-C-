@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TtLSgjGO8c903qiGsQYg4mfdffbYRlJrgkktcqthK44AM3ndA6Prowc7asmwN6KwPCpf979Ucb3jPZVlDUnllw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jafar\\OneDrive\\Masaüstü\\Ss\\Screenshot-Task\\Screenshot Task\\Screenshot Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jafar\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\jafar\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
